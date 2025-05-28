@@ -72,7 +72,7 @@ This Power BI project analyzes sales performance across multiple stores in a ret
 
 ## 📈 Screenshot Preview
 
-> ![Dashboard Preview](KasongoRetailStoreAnalysis.png)
+> ![Dashboard Preview](Kasongo%20Retail%20Store%20Analysis.png)
 
 ---
 
